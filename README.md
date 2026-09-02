@@ -32,7 +32,6 @@ program: B.Tech Information Technology (2023 – 2027)
 location: Jammu & Kashmir, India
 current_focus:
   - Data Engineering
-  - System Design
   - Competitive Programming
 highlights:
   - 98+ percentile, JEE Mains Mathematics
